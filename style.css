@@ -28,10 +28,13 @@ body{
     color: rgb(255, 230, 0);
 }
 #seventh{
+    color: rgb(255, 230, 0);
 }
 #eighth{
+    color: rgb(255, 230, 0);
 
 }
+
 #pic1{
     height:24%;
     width:24%;
@@ -39,23 +42,50 @@ body{
     margin: 0; 
 }
 #pic2{
-    height:25%;
-    width:25%;
+    height:24%;
+    width:24%;
     padding: 0; 
     margin: 0; 
 }
 #pic3{
     height:24%;
-    width:25%;
+    width:24%;
     padding: 0; 
     margin: 0; 
 }
 #pic4{
     height:24%;
-    width:25%;
+    width:24%;
     padding: 0; 
     margin: 0; 
 }
+#pic5{
+    height:24%;
+    width:24%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic6{
+    height:23%;
+    width:23%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic7{
+    height:18%;
+    width:18%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic8{
+    height:30%;
+    width:30%;
+    padding: 0; 
+    margin: 0; 
+}
+
+
+
 .row1{
 display: inline-grid;
 }
@@ -64,6 +94,47 @@ h3{
     display: inline
 }
 
-.mdl-button mdl-js-button mdl-button--raised{
-       color: blue; 
+
+
+
+
+#button_IT {
+    background-color: rgb(194, 22, 122);
+    border: none;
+    color: white;
+    padding: 6px 10px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 7px;
+}
+#color_of_Intsrgarm{
+    color:white;
+    font-size: 20px;
+}
+
+}
+
+#button_F {
+    background-color: rgb(57, 92, 197);
+    border: none;
+    color: rgb(57,92,197);
+    padding: 6px 10px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 7px;
+}
+#color_of_face{
+    color: white;
+    text-decoration: none;
+}
+
+
+.button:hover {
+    background-color:rgb(43, 66, 136);
+}
+footer{
+    font-size:18px;
+    color: black;
 }
